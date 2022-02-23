@@ -1,0 +1,64 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "title": "tag1",
+      "student_id": 1
+    },
+    {
+      "id": 2,
+      "title": "tag2",
+      "student_id": 2
+    },
+    {
+      "title": "tag1",
+      "student_id": "1",
+      "id": 3
+    },
+    {
+      "title": "tag2",
+      "student_id": "3",
+      "id": 4
+    },
+    {
+      "title": "tag3",
+      "student_id": "2",
+      "id": 5
+    },
+    {
+      "title": "tag4",
+      "student_id": "1",
+      "id": 6
+    },
+    {
+      "title": "new tag",
+      "student_id": "2",
+      "id": 7
+    },
+    {
+      "title": "new tag 2",
+      "student_id": "4",
+      "id": 8
+    },
+    {
+      "title": "tag 7",
+      "student_id": "8",
+      "id": 9
+    },
+    {
+      "title": "tag 8",
+      "student_id": "5",
+      "id": 10
+    },
+    {
+      "title": "tag 9",
+      "student_id": "5",
+      "id": 11
+    },
+    {
+      "title": "tag 10",
+      "student_id": "6",
+      "id": 12
+    }
+  ]
+}
